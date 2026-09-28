@@ -2,14 +2,14 @@
   "version": "2.60",
   "windows": {
     "version": "2.60",
-    "url": "https://github.com/whisa777/TurboBeeVPN-test/releases/download/test/TurboBeeVPN-test-Setup.exe",
-    "size": 100216425,
+    "url": "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/594900614",
+    "size": 100216237,
     "changelog": "Внесли небольшие изменения"
   },
   "android": {
     "version": "2.60",
-    "url": "https://github.com/whisa777/TurboBeeVPN-test/releases/download/test/TurboBeeVPN-test.apk",
-    "size": 40061425,
+    "url": "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/594900616",
+    "size": 40061465,
     "changelog": "Внесли небольшие изменения"
   }
 }
