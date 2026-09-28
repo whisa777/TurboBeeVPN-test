@@ -1,5 +1,5 @@
 {
-  "version": "2.65",
+  "version": "2.66",
   "windows": {
     "version": "2.63",
     "url": "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/594990626",
@@ -7,9 +7,9 @@
     "changelog": "Внесли небольшие изменения"
   },
   "android": {
-    "version": "2.65",
-    "url": "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/595045285",
-    "size": 40064181,
+    "version": "2.66",
+    "url": "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/595111975",
+    "size": 40064185,
     "changelog": "Внесли небольшие изменения"
   }
 }
