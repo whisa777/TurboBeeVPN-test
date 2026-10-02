@@ -1,5 +1,5 @@
 {
-    "version":  "2.70",
+    "version":  "2.71",
     "windows":  {
                     "version":  "2.64",
                     "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/597468694",
@@ -7,9 +7,9 @@
                     "changelog":  "Внесли небольшие изменения"
                 },
     "android":  {
-                    "version":  "2.70",
-                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/605986061",
-                    "size":  40113422,
-                    "changelog":  "Update install no longer breaks.\n- Update can no longer start twice: returning from install-permission settings plus a second tap on Update used to launch a second download over the first one. Two threads wrote to the same APK file, so the device rejected it with a package verification failure.\n- The APK is downloaded to a .part file and moved into place only after checks pass: our package, newer version, matching signature.\n- When the system package verifier rejects the file, the app no longer retries four times. It opens the normal system installer for confirmation right away."
+                    "version":  "2.71",
+                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/606067464",
+                    "size":  40113250,
+                    "changelog":  "Removed the embedded GitHub token that made the system security scanner reject the build as malicious.\n- The APK no longer contains any GitHub token or Authorization header. The token was embedded by mistake and made Huawei and Play Protect flag the app as harmful, so installation failed.\n- Credentials must never be compiled into the APK. The build now fails outright if a token is passed.\n- Update install no longer breaks: single download session, .part file, verification before moving into place, no retry loop on verifier rejection."
                 }
 }
