@@ -8,8 +8,8 @@
                 },
     "android":  {
                     "version":  "2.73",
-                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/606200648",
-                    "size":  39360257,
-                    "changelog":  "Version-only patch of the working production build 2.59. Exactly 4 bytes changed in the whole package (versionName 2.59 -\u003e 2.73, versionCode 54 -\u003e 273). The other 1261 of 1262 entries are byte-identical to 2.59. Signature: v2 only, exactly like the original. No apktool rebuild, no v1 META-INF, no v3 signature."
+                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/606246895",
+                    "size":  40113254,
+                    "changelog":  "Clean gradle build. Test channel: the APK now has the test UPDATE_DATA_URL baked in (latest-test.json), so the app checks the test manifest instead of the prod one. No tokens in the APK."
                 }
 }
