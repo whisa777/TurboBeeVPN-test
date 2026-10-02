@@ -1,15 +1,15 @@
 {
-    "version":  "2.71",
+    "version":  "2.72",
     "windows":  {
                     "version":  "2.64",
                     "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/597468694",
                     "size":  100659550,
-                    "changelog":  "Внесли небольшие изменения"
+                    "changelog":  "Р’РЅРµСЃР»Рё РЅРµР±РѕР»СЊС€РёРµ РёР·РјРµРЅРµРЅРёСЏ"
                 },
     "android":  {
-                    "version":  "2.71",
-                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/606154806",
-                    "size":  40313539,
-                    "changelog":  "Known-good production build 2.59, re-released as test 2.71. Only the version was changed (code 54 -\u003e 271). Application code is identical to production 2.59. Signed with the same production key."
+                    "version":  "2.72",
+                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/606186203",
+                    "size":  40064769,
+                    "changelog":  "Version-only patch of the working production build 2.59. Exactly 4 bytes changed in the whole package (versionName 2.59 -\u003e 2.72, versionCode 54 -\u003e 272). The other 1261 of 1262 entries are byte-identical to 2.59. Signature: v2 only, exactly like the original. No apktool rebuild, no v1 META-INF, no v3 signature."
                 }
 }
