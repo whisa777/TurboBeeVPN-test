@@ -7,9 +7,9 @@
                     "changelog":  "Р вЂ™Р Р…Р ВµРЎРѓР В»Р С‘ Р Р…Р ВµР В±Р С•Р В»РЎРЉРЎв‚¬Р С‘Р Вµ Р С‘Р В·Р СР ВµР Р…Р ВµР Р…Р С‘РЎРЏ"
                 },
     "android":  {
-                    "version":  "2.78",
-                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/610124246",
-                    "size":  40106626,
-                    "changelog":  "Тестовое обновление"
+                    "version":  "2.80",
+                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/610308673",
+                    "size":  40081549,
+                    "changelog":  "Убраны «Глобальные настройки» и «Маршрутизация и Автоматизация». Восстановлен второй запрос подтверждения установки после ввода пароля."
                 }
 }
