@@ -1,15 +1,15 @@
 {
-    "version": "2.73",
-    "windows": {
-        "version": "2.65",
-        "url": "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/639538485",
-        "size": 100659634,
-        "changelog": "Исправление: в TUN-режиме (с правами администратора) больше не включается системный прокси Windows. Steam и Horizon Client больше не теряют соединение из-за прокси."
-    },
-    "android": {
-        "version": "2.85",
-        "url": "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/612187982",
-        "size": 40101710,
-        "changelog": "Тестовое обновление."
-    }
+  "version": "2.73",
+  "windows": {
+    "version": "2.65",
+    "url": "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/639538485",
+    "size": 100659634,
+    "changelog": "Исправление: в TUN-режиме (с правами администратора) больше не включается системный прокси Windows. Steam и Horizon Client больше не теряют соединение из-за прокси."
+  },
+  "android": {
+    "version": "2.86",
+    "url": "https://github.com/whisa777/TurboBeeVPN-test/releases/latest/download/TurboBeeVPN-test.apk",
+    "size": 40102482,
+    "changelog": "Тест мобильного обхода ТСПУ: XHTTP переведён на HTTP/2 (ALPN h2) — все запросы в одном TLS-соединении вместо залпа отдельных рукопожатий, которые ТСПУ замораживает на мобильных сетях. Привязка по коду переведена на рабочий адрес sub.turbobee.fun. Wi-Fi-поведение не менялось."
+  }
 }
