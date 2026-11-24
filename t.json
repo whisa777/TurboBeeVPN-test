@@ -1,15 +1,15 @@
 {
-    "version": "2.73",
-    "windows": {
-        "version": "2.65",
-        "url": "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/639538485",
-        "size": 100659634,
-        "changelog": "Исправление: в TUN-режиме (с правами администратора) больше не включается системный прокси Windows. Steam и Horizon Client больше не теряют соединение из-за прокси."
-    },
-    "android": {
-        "version": "2.85",
-        "url": "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/612187982",
-        "size": 40101710,
-        "changelog": "Тестовое обновление."
-    }
+    "version":  "2.73",
+    "windows":  {
+                    "version":  "2.66",
+                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/785684220",
+                    "size":  100660359,
+                    "changelog":  "Исправление подключения Windows: XHTTP-ключ «Милан» через Cloudflare теперь подключается — убрано конфликтующее uTLS-рукопожатие, HTTP/2 включён явно. Ранее соединение падало с ошибкой http2: frame too large."
+                },
+    "android":  {
+                    "version":  "2.85",
+                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/612187982",
+                    "size":  40101710,
+                    "changelog":  "Тестовое обновление."
+                }
 }
