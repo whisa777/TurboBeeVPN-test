@@ -7,9 +7,9 @@
                     "changelog":  "Исправление подключения Windows: XHTTP-ключ «Милан» через Cloudflare теперь подключается — убрано конфликтующее uTLS-рукопожатие, HTTP/2 включён явно. Ранее соединение падало с ошибкой http2: frame too large."
                 },
     "android":  {
-                    "version":  "2.87",
-                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/790500862",
-                    "size":  40103126,
-                    "changelog":  "Добавили тип ключа в подпись"
+                    "version":  "2.88",
+                    "url":  "https://api.github.com/repos/whisa777/TurboBeeVPN-test/releases/assets/790606259",
+                    "size":  40104022,
+                    "changelog":  "Поправили получение кода в бота"
                 }
 }
